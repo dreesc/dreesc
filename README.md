@@ -62,10 +62,7 @@
 
 <img alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img alt="Linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img alt="Bash" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-<img alt="Go" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 <img alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img alt="MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img alt="Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
