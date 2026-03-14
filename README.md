@@ -75,11 +75,4 @@
 <br>
 
 <!-- Divisor final -->
-<div align="center">
-
-```
-[ EOF ] ───────────────────────────────── dreesc@github:~$
-```
-
-</div>
   
