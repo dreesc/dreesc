@@ -15,12 +15,12 @@
 <!-- ASCII divider -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║           [ SYSTEM ACCESS GRANTED ]                  ║
-║     Security Analyst & Developer  //  BR             ║
-╚══════════════════════════════════════════════════════╝
-```
+                                              ```
+                                              ╔══════════════════════════════════════════════════════╗
+                                              ║           [ SYSTEM ACCESS GRANTED ]                  ║
+                                              ║             Security Analyst //  BR                  ║
+                                              ╚══════════════════════════════════════════════════════╝
+                                              ```
 
 </div>
 
@@ -82,15 +82,4 @@
 ```
 
 </div>
-
-<!-- LinkedIn -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/andre-schafer/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0d1117&color=39FF14"/>
-  </a>
-  <a href="https://www.instagram.com/dree_sc/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=FFA500&labelColor=0d1117&color=FFA500"/>
-  </a>
-</div>
-  
   
