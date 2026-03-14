@@ -5,9 +5,9 @@
 - 📑 I’m looking to collaborate on documents and information gathering in cyber security.
 
 
-<!-- Banner animado -->
+<!-- Banner animado -->     
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=+dreesc%40terminal%3A~%24;Security+Analyst+%7C+Developer;Threat+Hunter+%7C+Tool+Builder;%24+whoami+--+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=dreesc%40terminal%3A~%24;Security+Analyst;Threat+Hunting+%7C+Threat+Intelligence;Incident+Response+%7C+OSINT;%24+whoami+--+always+learning" alt="Typing SVG" />
 </div>
 
 <br>
