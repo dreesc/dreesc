@@ -1,8 +1,6 @@
-### Hi folks! 👋
+###
 
-- 🧠 I’m currently working on Cyber Security.
-- 🧑‍💻 Keep learning, Keep hacking!
-- 📑 I’m looking to collaborate on documents and information gathering in cyber security.
+📑 I’m looking to collaborate on documents and information gathering in cyber security.
 
 
 <!-- Banner animado -->     
