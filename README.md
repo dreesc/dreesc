@@ -30,16 +30,6 @@
 
 </div>
 
-<br>
-
-<!-- Stats -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dreesc&show_icons=true&theme=terminal&include_all_commits=true&count_private=true&border_color=39FF14&title_color=39FF14&icon_color=FFA500"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreesc&layout=compact&langs_count=7&theme=terminal&border_color=39FF14&title_color=39FF14"/>
-</div>
-
-<br>
-
 <!-- Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dreesc&theme=terminal&border=39FF14&ring=FFA500&fire=FFA500&currStreakLabel=39FF14" alt="GitHub Streak"/>
