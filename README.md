@@ -1,8 +1,4 @@
 ###
-
-📑 I’m looking to collaborate on documents and information gathering in cyber security.
-
-
 <!-- Banner animado -->     
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=dreesc%40terminal%3A~%24;Security+Analyst;Threat+Hunting+%7C+Threat+Intelligence;Incident+Response+%7C+OSINT;%24+whoami+--+always+learning" alt="Typing SVG" />
@@ -16,7 +12,7 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║           [ SYSTEM ACCESS GRANTED ]                  ║
-║     Security Analyst  //  BR             ║
+║            Security Analyst  //  BR                  ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -27,10 +23,10 @@
 
 | `$ cat specialties.txt` |
 |---|
-| 🛡️  Threat Intelligence & IP Reputation Analysis |
-| 🔍  Security Automation & Tooling |
-| 🐍  Python scripting for CyberSec workflows |
-| 🖥️  Linux · Networking · OSINT |
+| Threat Intelligence | Threat Hunting | OSINT |
+| Security Automation | Tooling |
+| Python scripting for CyberSec |
+| Linux · Networking |
 
 </div>
 
